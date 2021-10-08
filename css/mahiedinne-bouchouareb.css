@@ -1,0 +1,32 @@
+h1 {
+
+ color: red ;
+ border-radius: 5;
+ border-style: groove;
+ border-color: rgb(4, 20, 18);
+ text-shadow: cyan;
+ text-align: center;
+} 
+
+
+body 
+{
+     background-color:rgb(155, 155, 207);
+}
+lu {
+font-style: oblique;     
+}
+
+p {
+
+  font-size: 20;
+ border-radius: 20%;
+ background-color: white;
+ padding: 10px 10px 10px 10px;
+
+}
+
+
+.image {
+  
+}
